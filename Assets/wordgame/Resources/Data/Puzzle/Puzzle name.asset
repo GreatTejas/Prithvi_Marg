@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d3a890621e433d40b47d0574164db89, type: 3}
+  m_Name: Puzzle name
+  m_EditorClassIdentifier: 
+  timeInSeconds: 20
+  Columns: 10
+  Rows: 10
+  Board:
+  - Size: 10
+    Row:
+    - A
+    - L
+    - Q
+    - M
+    - H
+    - E
+    - L
+    - C
+    - O
+    - G
+  - Size: 10
+    Row:
+    - Y
+    - M
+    - B
+    - U
+    - O
+    - W
+    - I
+    - O
+    - D
+    - E
+  - Size: 10
+    Row:
+    - O
+    - D
+    - P
+    - Q
+    - M
+    - I
+    - L
+    - A
+    - H
+    - O
+  - Size: 10
+    Row:
+    - R
+    - E
+    - N
+    - E
+    - W
+    - A
+    - B
+    - L
+    - E
+    - T
+  - Size: 10
+    Row:
+    - M
+    - B
+    - U
+    - J
+    - Y
+    - G
+    - X
+    - L
+    - R
+    - H
+  - Size: 10
+    Row:
+    - L
+    - I
+    - N
+    - T
+    - U
+    - R
+    - B
+    - I
+    - N
+    - E
+  - Size: 10
+    Row:
+    - B
+    - L
+    - F
+    - Z
+    - M
+    - J
+    - L
+    - P
+    - H
+    - R
+  - Size: 10
+    Row:
+    - F
+    - Y
+    - R
+    - S
+    - O
+    - L
+    - A
+    - R
+    - L
+    - M
+  - Size: 10
+    Row:
+    - O
+    - Z
+    - X
+    - D
+    - F
+    - G
+    - Y
+    - G
+    - D
+    - A
+  - Size: 10
+    Row:
+    - B
+    - J
+    - W
+    - X
+    - D
+    - T
+    - O
+    - C
+    - U
+    - L
+  SearchWords:
+  - Word: SOLAR
+  - Word: RENEWABLE
+  - Word: GEOTHERMAL
+  - Word: COAL
+  - Word: TURBINE
